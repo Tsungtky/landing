@@ -1,0 +1,42 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 200px;
+}
+
+.banner .container p {
+  max-width: 600px;
+}
+
+.text-center {
+  text-align: center;
+  font-size: 30px;
+}
+
+.container h1,
+.container p {
+  margin: 0;
+  padding: 15px 0;
+}
+
+.container h1 {
+  font-size: 45px;
+  text-shadow: 0 0 1px rgba(0, 0, 0, 0.5);
+}
+
+.container p {
+  font-size: 20px;
+  opacity: 80%;
+  margin-bottom: 20px;
+}
+
+.banner .container a {
+  background-color: #fbcd35;
+  font-size: 20px;
+  padding: 10px 15px;
+  color: black;
+  font-weight: bold;
+  border-radius: 30px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

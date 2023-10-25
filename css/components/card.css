@@ -1,0 +1,26 @@
+.card {
+  background-color:rgb(251, 234, 192);
+  width: 250px;
+  height: 300px;
+  border: 1px solid rgb(247, 221, 160);
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgb(217, 202, 142);
+  text-align: center;
+  padding-top: 25px;
+}
+
+.card p {
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 15px 20px;
+  opacity: 50%;
+}
+.card img{
+  width: 100px;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 35px;
+}
